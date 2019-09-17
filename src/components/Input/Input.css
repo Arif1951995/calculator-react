@@ -1,0 +1,14 @@
+.input-wrapper {
+    
+    /* border: 2px solid black; */
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    
+    
+}
